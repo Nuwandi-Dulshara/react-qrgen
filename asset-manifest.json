@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-qrgen/static/css/main.47ee4c6e.css",
+    "main.js": "/react-qrgen/static/js/main.b79250e3.js",
+    "index.html": "/react-qrgen/index.html",
+    "main.47ee4c6e.css.map": "/react-qrgen/static/css/main.47ee4c6e.css.map",
+    "main.b79250e3.js.map": "/react-qrgen/static/js/main.b79250e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ee4c6e.css",
+    "static/js/main.b79250e3.js"
+  ]
+}
